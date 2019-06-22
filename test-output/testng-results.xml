@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Bunnings WishList" duration-ms="27157" started-at="2019-06-22T12:36:01Z" finished-at="2019-06-22T12:36:28Z">
+    <groups>
+    </groups>
+    <test name="WishList" duration-ms="27157" started-at="2019-06-22T12:36:01Z" finished-at="2019-06-22T12:36:28Z">
+      <class name="bunningsWishList.testCases.TC_BunningsWishList">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:bunningsWishList.testCases.TC_BunningsWishList@7085bdee]" name="setup" is-config="true" duration-ms="13925" started-at="2019-06-22T12:36:01Z" finished-at="2019-06-22T12:36:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifySearchresultText()[pri:1, instance:bunningsWishList.testCases.TC_BunningsWishList@7085bdee]" name="verifySearchresultText" duration-ms="7444" started-at="2019-06-22T12:36:15Z" finished-at="2019-06-22T12:36:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchresultText -->
+        <test-method status="PASS" signature="verifyProductAddedToWishlist()[pri:2, instance:bunningsWishList.testCases.TC_BunningsWishList@7085bdee]" name="verifyProductAddedToWishlist" duration-ms="5048" started-at="2019-06-22T12:36:22Z" finished-at="2019-06-22T12:36:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductAddedToWishlist -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:bunningsWishList.testCases.TC_BunningsWishList@7085bdee]" name="closeBrowser" is-config="true" duration-ms="717" started-at="2019-06-22T12:36:27Z" finished-at="2019-06-22T12:36:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- bunningsWishList.testCases.TC_BunningsWishList -->
+    </test> <!-- WishList -->
+  </suite> <!-- Bunnings WishList -->
+</testng-results>
