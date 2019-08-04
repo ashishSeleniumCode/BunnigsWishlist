@@ -17,22 +17,42 @@ public class ProductDetailsPage {
 		ldriver = rdriver;
 	}
 
+	/*@FindBy(xpath = "//span[@class='product-in']")
+	WebElement productId;
+
+	@FindBy(xpath = "//span[contains(text(),'Add to Wish List')]")
+	WebElement wishList;
+
+	@FindBy(xpath = "//span[contains(text(),'Added')]")
+	WebElement addedButton;
+
+	@FindBy(xpath = "//a[@class='header_navbar-link header_navbar-link-wishlist']")
+	WebElement wishListButton;*/
+	
+	
+
+	By productId = By.xpath("//span[@class='product-in']");
+	By wishList = By.xpath("//span[contains(text(),'Add to Wish List')]");
+	By addedButton = By.xpath("//span[contains(text(),'Added')]");
+	By wishListButton = By.xpath("//a[@class='header_navbar-link header_navbar-link-wishlist']");
+	
 	public String getProductIdNumber() {
-		String getProductIdText = ldriver.findElement(By.xpath("//span[@class='product-in']")).getText();
+		String getProductIdText = ldriver.findElement(productId).getText();
 		System.out.println(getProductIdText);
 		selectedProductId = getProductIdText;
 		return getProductIdText;
 	}
 
 	public void addItemToWishlist() {
-		ldriver.findElement(By.xpath("//span[contains(text(),'Add to Wish List')]")).click();
+		ldriver.findElement(wishList).click();
 	}
 
 	public void clickWishListLink() {
 		WebDriverWait wait = new WebDriverWait(ldriver, 10);
-		String wishListButtontext = wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//span[contains(text(),'Added')]"))).getText();
+		String wishListButtontext = wait.until(ExpectedConditions.visibilityOfElementLocated((By) addedButton))
+				.getText();
 		if (wishListButtontext.equalsIgnoreCase(rc.wishListButtontext())) {
-			ldriver.findElement(By.xpath("//a[@class='header_navbar-link header_navbar-link-wishlist']")).click();
+			ldriver.findElement(wishListButton).click();
 		}
 
 	}

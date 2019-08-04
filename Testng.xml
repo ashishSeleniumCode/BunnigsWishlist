@@ -2,7 +2,10 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
 
 <suite name="Bunnings WishList">
-
+	<listeners>
+		<listener class-name="bunningsWishList.utilities.Listeners" />
+		<listener class-name="bunningsWishList.utilities.ExtentReporterNG" />
+	</listeners>
 
 	<test name="WishList">
 		<parameter name="browser" value="chrome" />

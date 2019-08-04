@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Bunnings WishList]">
-  <test thread-count="5" name="search Image(failed)">
-    <parameter name="browser" value="ie"/>
+  <listeners>
+    <listener class-name="bunningsWishList.utilities.Listeners"/>
+    <listener class-name="bunningsWishList.utilities.ExtentReporterNG"/>
+  </listeners>
+  <test thread-count="5" name="WishList(failed)">
+    <parameter name="browser" value="chrome"/>
     <classes>
       <class name="bunningsWishList.testCases.TC_BunningsWishList">
         <methods>
           <include name="closeBrowser"/>
           <include name="verifyProductAddedToWishlist"/>
           <include name="setup"/>
-          <include name="verifySearchresultText"/>
         </methods>
       </class> <!-- bunningsWishList.testCases.TC_BunningsWishList -->
     </classes>
-  </test> <!-- search Image(failed) -->
+  </test> <!-- WishList(failed) -->
 </suite> <!-- Failed suite [Bunnings WishList] -->

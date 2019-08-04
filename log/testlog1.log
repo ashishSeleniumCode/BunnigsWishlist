@@ -48,3 +48,218 @@
 2019-06-22 22:36:27,080 [main] INFO Bunnings - Wishlist link clicked successfully
 2019-06-22 22:36:27,178 [main] INFO Bunnings - Assertion applied successfully
 2019-06-22 22:36:27,718 [main] INFO Bunnings - Wishlist page screenshot
+2019-06-22 23:12:03,498 [main] INFO Bunnings - Browser opened
+2019-06-22 23:12:03,788 [main] INFO Bunnings - Text entered successfully in the text field
+2019-06-22 23:12:07,103 [main] INFO Bunnings - Search button clicked successfully
+2019-06-22 23:12:07,241 [main] INFO Bunnings - Assertion applied successfully
+2019-06-22 23:12:07,679 [main] INFO Bunnings - Search result page screenshot
+2019-06-22 23:12:11,221 [main] INFO Bunnings - Item selected successfully
+2019-06-22 23:12:11,577 [main] INFO Bunnings - Item added to Wishlist successfully
+2019-06-22 23:12:15,670 [main] INFO Bunnings - Wishlist link clicked successfully
+2019-06-22 23:12:15,738 [main] INFO Bunnings - Assertion applied successfully
+2019-06-22 23:12:16,246 [main] INFO Bunnings - Wishlist page screenshot
+2019-06-22 23:47:47,552 [main] INFO Bunnings - Browser opened
+2019-06-22 23:47:47,734 [main] INFO Bunnings - Text entered successfully in the text field
+2019-06-22 23:47:50,550 [main] INFO Bunnings - Search button clicked successfully
+2019-06-22 23:47:51,372 [main] INFO Bunnings - Assertion applied successfully
+2019-06-22 23:47:51,788 [main] INFO Bunnings - Search result page screenshot
+2019-06-22 23:47:56,545 [main] INFO Bunnings - Item selected successfully
+2019-06-22 23:47:56,862 [main] INFO Bunnings - Item added to Wishlist successfully
+2019-06-22 23:48:00,785 [main] INFO Bunnings - Wishlist link clicked successfully
+2019-06-22 23:48:00,853 [main] INFO Bunnings - Assertion applied successfully
+2019-06-22 23:48:01,377 [main] INFO Bunnings - Wishlist page screenshot
+2019-06-25 16:20:25,545 [main] INFO Bunnings - Browser opened
+2019-06-25 16:20:25,711 [main] INFO Bunnings - Text entered successfully in the text field
+2019-06-25 16:20:30,478 [main] INFO Bunnings - Search button clicked successfully
+2019-06-25 16:20:30,535 [main] INFO Bunnings - Assertion applied successfully
+2019-06-25 16:20:31,071 [main] INFO Bunnings - Search result page screenshot
+2019-06-25 16:20:35,496 [main] INFO Bunnings - Item selected successfully
+2019-06-25 16:20:49,351 [main] INFO Bunnings - Browser opened
+2019-06-26 00:18:18,034 [main] INFO Bunnings - Browser opened
+2019-06-26 00:18:18,415 [main] INFO Bunnings - Text entered successfully in the text field
+2019-06-26 00:18:23,343 [main] INFO Bunnings - Search button clicked successfully
+2019-06-26 00:18:23,407 [main] INFO Bunnings - Assertion applied successfully
+2019-06-26 00:18:24,011 [main] INFO Bunnings - Search result page screenshot
+2019-06-26 00:18:38,358 [main] INFO Bunnings - Browser opened
+2019-06-26 00:19:47,069 [main] INFO Bunnings - Browser opened
+2019-06-26 00:19:47,265 [main] INFO Bunnings - Text entered successfully in the text field
+2019-06-26 00:19:51,241 [main] INFO Bunnings - Search button clicked successfully
+2019-06-26 00:19:51,298 [main] INFO Bunnings - Assertion applied successfully
+2019-06-26 00:19:51,710 [main] INFO Bunnings - Search result page screenshot
+2019-06-26 00:20:01,602 [main] INFO Bunnings - Browser opened
+2019-06-26 00:21:00,398 [main] INFO Bunnings - Browser opened
+2019-06-26 00:21:00,608 [main] INFO Bunnings - Text entered successfully in the text field
+2019-06-26 00:21:04,304 [main] INFO Bunnings - Search button clicked successfully
+2019-06-26 00:21:04,357 [main] INFO Bunnings - Assertion applied successfully
+2019-06-26 00:21:04,801 [main] INFO Bunnings - Search result page screenshot
+2019-06-26 00:22:10,702 [main] INFO Bunnings - Browser opened
+2019-06-26 00:22:11,008 [main] INFO Bunnings - Text entered successfully in the text field
+2019-06-26 00:22:14,640 [main] INFO Bunnings - Search button clicked successfully
+2019-06-26 00:22:14,699 [main] INFO Bunnings - Assertion applied successfully
+2019-06-26 00:22:15,171 [main] INFO Bunnings - Search result page screenshot
+2019-06-26 00:22:18,463 [main] INFO Bunnings - Item selected successfully
+2019-06-26 00:22:18,870 [main] INFO Bunnings - Item added to Wishlist successfully
+2019-06-26 00:22:22,734 [main] INFO Bunnings - Wishlist link clicked successfully
+2019-06-26 00:22:22,932 [main] INFO Bunnings - Assertion applied successfully
+2019-06-26 00:22:23,756 [main] INFO Bunnings - Wishlist page screenshot
+2019-07-27 22:34:30,676 [main] INFO Bunnings - Browser opened
+2019-07-27 22:34:30,970 [main] INFO Bunnings - Text entered successfully in the text field
+2019-07-27 22:34:38,794 [main] INFO Bunnings - Search button clicked successfully
+2019-07-27 22:46:07,305 [main] INFO Bunnings - Browser opened
+2019-07-27 22:46:07,681 [main] INFO Bunnings - Text entered successfully in the text field
+2019-07-27 22:46:15,777 [main] INFO Bunnings - Search button clicked successfully
+2019-07-27 22:48:56,923 [main] INFO Bunnings - Browser opened
+2019-07-27 22:48:57,185 [main] INFO Bunnings - Text entered successfully in the text field
+2019-07-27 22:49:05,804 [main] INFO Bunnings - Search button clicked successfully
+2019-07-27 22:57:26,603 [main] INFO Bunnings - Browser opened
+2019-07-27 22:57:26,872 [main] INFO Bunnings - Text entered successfully in the text field
+2019-07-27 22:57:34,624 [main] INFO Bunnings - Search button clicked successfully
+2019-07-27 23:02:23,825 [main] INFO Bunnings - Browser opened
+2019-07-27 23:02:25,260 [main] INFO Bunnings - Text entered successfully in the text field
+2019-07-27 23:02:34,665 [main] INFO Bunnings - Search button clicked successfully
+2019-07-27 23:09:16,915 [main] INFO Bunnings - Browser opened
+2019-07-27 23:11:37,154 [main] INFO Bunnings - Browser opened
+2019-07-27 23:11:37,483 [main] INFO Bunnings - Text entered successfully in the text field
+2019-07-27 23:11:45,183 [main] INFO Bunnings - Search button clicked successfully
+2019-07-27 23:21:33,031 [main] INFO Bunnings - Browser opened
+2019-07-27 23:21:33,373 [main] INFO Bunnings - Text entered successfully in the text field
+2019-07-27 23:21:41,153 [main] INFO Bunnings - Search button clicked successfully
+2019-07-27 23:27:36,155 [main] INFO Bunnings - Browser opened
+2019-07-27 23:27:36,470 [main] INFO Bunnings - Text entered successfully in the text field
+2019-07-27 23:27:43,754 [main] INFO Bunnings - Search button clicked successfully
+2019-07-27 23:32:08,311 [main] INFO Bunnings - Browser opened
+2019-07-27 23:32:08,640 [main] INFO Bunnings - Text entered successfully in the text field
+2019-07-27 23:32:15,048 [main] INFO Bunnings - Search button clicked successfully
+2019-07-27 23:41:07,336 [main] INFO Bunnings - Browser opened
+2019-07-27 23:41:07,641 [main] INFO Bunnings - Text entered successfully in the text field
+2019-07-27 23:41:15,405 [main] INFO Bunnings - Search button clicked successfully
+2019-07-27 23:45:59,501 [main] INFO Bunnings - Browser opened
+2019-07-27 23:45:59,834 [main] INFO Bunnings - Text entered successfully in the text field
+2019-07-27 23:46:15,035 [main] INFO Bunnings - Search button clicked successfully
+2019-07-27 23:48:00,942 [main] INFO Bunnings - Browser opened
+2019-07-27 23:48:01,249 [main] INFO Bunnings - Text entered successfully in the text field
+2019-07-27 23:48:07,702 [main] INFO Bunnings - Search button clicked successfully
+2019-07-27 23:51:37,079 [main] INFO Bunnings - Browser opened
+2019-07-27 23:51:37,375 [main] INFO Bunnings - Text entered successfully in the text field
+2019-07-27 23:51:44,907 [main] INFO Bunnings - Search button clicked successfully
+2019-07-27 23:52:49,202 [main] INFO Bunnings - Browser opened
+2019-07-27 23:52:49,673 [main] INFO Bunnings - Text entered successfully in the text field
+2019-07-27 23:52:57,396 [main] INFO Bunnings - Search button clicked successfully
+2019-07-27 23:54:08,010 [main] INFO Bunnings - Browser opened
+2019-07-27 23:54:08,316 [main] INFO Bunnings - Text entered successfully in the text field
+2019-07-27 23:54:14,842 [main] INFO Bunnings - Search button clicked successfully
+2019-07-27 23:56:09,564 [main] INFO Bunnings - Browser opened
+2019-07-27 23:56:09,908 [main] INFO Bunnings - Text entered successfully in the text field
+2019-07-27 23:56:16,317 [main] INFO Bunnings - Search button clicked successfully
+2019-07-28 00:03:46,982 [main] INFO Bunnings - Browser opened
+2019-07-28 00:03:47,284 [main] INFO Bunnings - Text entered successfully in the text field
+2019-07-28 00:03:53,382 [main] INFO Bunnings - Search button clicked successfully
+2019-07-28 00:07:21,320 [main] INFO Bunnings - Browser opened
+2019-07-28 00:07:21,624 [main] INFO Bunnings - Text entered successfully in the text field
+2019-07-28 00:07:28,095 [main] INFO Bunnings - Search button clicked successfully
+2019-07-28 00:09:52,907 [main] INFO Bunnings - Browser opened
+2019-07-28 00:09:53,672 [main] INFO Bunnings - Text entered successfully in the text field
+2019-07-28 00:10:00,394 [main] INFO Bunnings - Search button clicked successfully
+2019-07-28 00:10:01,831 [main] INFO Bunnings - Assertion applied successfully
+2019-07-28 00:10:01,831 [main] INFO Bunnings - Search result page screenshot
+2019-07-28 00:19:32,611 [main] INFO Bunnings - Browser opened
+2019-07-28 00:19:32,916 [main] INFO Bunnings - Text entered successfully in the text field
+2019-07-28 00:19:40,170 [main] INFO Bunnings - Search button clicked successfully
+2019-07-28 00:19:40,774 [main] INFO Bunnings - Assertion applied successfully
+2019-07-28 00:19:40,775 [main] INFO Bunnings - Search result page screenshot
+2019-07-28 00:26:34,400 [main] INFO Bunnings - Browser opened
+2019-07-28 00:26:35,079 [main] INFO Bunnings - Text entered successfully in the text field
+2019-07-28 00:26:41,473 [main] INFO Bunnings - Search button clicked successfully
+2019-07-28 00:26:42,958 [main] INFO Bunnings - Assertion applied successfully
+2019-07-28 00:26:42,959 [main] INFO Bunnings - Search result page screenshot
+2019-07-28 00:36:23,716 [main] INFO Bunnings - Browser opened
+2019-07-28 00:36:25,042 [main] INFO Bunnings - Text entered successfully in the text field
+2019-07-28 00:36:31,962 [main] INFO Bunnings - Search button clicked successfully
+2019-07-28 00:43:30,596 [main] INFO Bunnings - Browser opened
+2019-07-28 00:43:30,926 [main] INFO Bunnings - Text entered successfully in the text field
+2019-07-28 00:43:37,726 [main] INFO Bunnings - Search button clicked successfully
+2019-07-28 00:48:16,637 [main] INFO Bunnings - Browser opened
+2019-07-28 00:48:17,406 [main] INFO Bunnings - Text entered successfully in the text field
+2019-07-28 00:48:24,240 [main] INFO Bunnings - Search button clicked successfully
+2019-07-28 00:52:11,498 [main] INFO Bunnings - Browser opened
+2019-07-28 00:52:11,787 [main] INFO Bunnings - Text entered successfully in the text field
+2019-07-28 00:52:18,193 [main] INFO Bunnings - Search button clicked successfully
+2019-07-28 00:53:09,625 [main] INFO Bunnings - Browser opened
+2019-07-28 00:53:10,032 [main] INFO Bunnings - Text entered successfully in the text field
+2019-07-28 00:53:16,483 [main] INFO Bunnings - Search button clicked successfully
+2019-07-28 01:00:25,400 [main] INFO Bunnings - Browser opened
+2019-07-28 01:00:25,756 [main] INFO Bunnings - Text entered successfully in the text field
+2019-07-28 01:00:33,640 [main] INFO Bunnings - Search button clicked successfully
+2019-07-28 01:11:34,554 [main] INFO Bunnings - Browser opened
+2019-07-28 01:11:34,976 [main] INFO Bunnings - Text entered successfully in the text field
+2019-07-28 01:11:42,289 [main] INFO Bunnings - Search button clicked successfully
+2019-07-28 01:18:58,078 [main] INFO Bunnings - Browser opened
+2019-07-28 01:18:58,407 [main] INFO Bunnings - Text entered successfully in the text field
+2019-07-28 01:19:05,523 [main] INFO Bunnings - Search button clicked successfully
+2019-07-28 01:32:07,393 [main] INFO Bunnings - Browser opened
+2019-07-28 01:32:07,708 [main] INFO Bunnings - Text entered successfully in the text field
+2019-07-28 01:32:15,845 [main] INFO Bunnings - Search button clicked successfully
+2019-07-28 01:39:23,468 [main] INFO Bunnings - Browser opened
+2019-07-28 01:39:23,780 [main] INFO Bunnings - Text entered successfully in the text field
+2019-07-28 01:39:31,676 [main] INFO Bunnings - Search button clicked successfully
+2019-07-28 15:05:19,473 [main] INFO Bunnings - Browser opened
+2019-07-28 15:05:20,460 [main] INFO Bunnings - Text entered successfully in the text field
+2019-07-28 15:05:29,460 [main] INFO Bunnings - Search button clicked successfully
+2019-07-28 15:07:36,002 [main] INFO Bunnings - Browser opened
+2019-07-28 15:07:36,311 [main] INFO Bunnings - Text entered successfully in the text field
+2019-07-28 15:07:43,425 [main] INFO Bunnings - Search button clicked successfully
+2019-07-28 15:13:19,909 [main] INFO Bunnings - Browser opened
+2019-07-28 15:13:20,495 [main] INFO Bunnings - Text entered successfully in the text field
+2019-07-28 15:13:29,485 [main] INFO Bunnings - Search button clicked successfully
+2019-07-28 15:13:29,601 [main] INFO Bunnings - Assertion applied successfully
+2019-07-28 15:13:29,602 [main] INFO Bunnings - Search result page screenshot
+2019-07-29 00:19:28,080 [main] INFO Bunnings - Browser opened
+2019-07-29 00:19:28,443 [main] INFO Bunnings - Text entered successfully in the text field
+2019-07-29 00:19:36,757 [main] INFO Bunnings - Search button clicked successfully
+2019-07-29 00:19:38,345 [main] INFO Bunnings - Assertion applied successfully
+2019-07-29 00:19:38,346 [main] INFO Bunnings - Search result page screenshot
+2019-07-29 14:26:11,003 [main] INFO Bunnings - Browser opened
+2019-07-29 14:26:11,553 [main] INFO Bunnings - Text entered successfully in the text field
+2019-07-29 14:26:20,549 [main] INFO Bunnings - Search button clicked successfully
+2019-07-29 14:26:21,003 [main] INFO Bunnings - Assertion applied successfully
+2019-07-29 14:26:21,004 [main] INFO Bunnings - Search result page screenshot
+2019-07-29 15:48:00,391 [main] INFO Bunnings - Browser opened
+2019-07-29 15:48:56,819 [main] INFO Bunnings - Browser opened
+2019-07-29 15:50:39,171 [main] INFO Bunnings - Browser opened
+2019-07-29 18:03:21,987 [main] INFO Bunnings - Browser opened
+2019-07-29 18:03:54,446 [main] INFO Bunnings - Browser opened
+2019-07-29 18:05:57,972 [main] INFO Bunnings - Browser opened
+2019-07-29 18:14:26,007 [main] INFO Bunnings - Browser opened
+2019-07-29 18:14:26,302 [main] INFO Bunnings - Text entered successfully in the text field
+2019-07-29 18:14:34,050 [main] INFO Bunnings - Search button clicked successfully
+2019-07-29 23:37:33,331 [main] INFO Bunnings - Browser opened
+2019-07-29 23:38:17,976 [main] INFO Bunnings - Browser opened
+2019-07-29 23:38:18,294 [main] INFO Bunnings - Text entered successfully in the text field
+2019-07-29 23:38:28,046 [main] INFO Bunnings - Search button clicked successfully
+2019-07-29 23:44:16,989 [main] INFO Bunnings - Browser opened
+2019-07-29 23:44:17,307 [main] INFO Bunnings - Text entered successfully in the text field
+2019-07-29 23:44:26,561 [main] INFO Bunnings - Search button clicked successfully
+2019-07-29 23:44:26,873 [main] INFO Bunnings - Assertion applied successfully
+2019-07-29 23:50:29,396 [main] INFO Bunnings - Browser opened
+2019-07-29 23:50:30,552 [main] INFO Bunnings - Text entered successfully in the text field
+2019-07-29 23:50:38,277 [main] INFO Bunnings - Search button clicked successfully
+2019-07-29 23:50:38,484 [main] INFO Bunnings - Assertion applied successfully
+2019-07-29 23:50:44,935 [main] INFO Bunnings - Item selected successfully
+2019-07-29 23:57:57,448 [main] INFO Bunnings - Browser opened
+2019-07-29 23:58:28,650 [main] INFO Bunnings - Text entered successfully in the text field
+2019-07-29 23:58:38,387 [main] INFO Bunnings - Search button clicked successfully
+2019-07-29 23:58:38,497 [main] INFO Bunnings - Assertion applied successfully
+2019-07-29 23:58:45,674 [main] INFO Bunnings - Item selected successfully
+2019-07-29 23:58:46,309 [main] INFO Bunnings - Item added to Wishlist successfully
+2019-07-29 23:58:54,058 [main] INFO Bunnings - Wishlist link clicked successfully
+2019-07-29 23:58:54,192 [main] INFO Bunnings - Assertion applied successfully
+2019-07-29 23:58:54,193 [main] INFO Bunnings - Wishlist page screenshot
+2019-07-31 14:09:21,900 [main] INFO Bunnings - Browser opened
+2019-07-31 14:09:22,198 [main] INFO Bunnings - Text entered successfully in the text field
+2019-07-31 14:09:29,707 [main] INFO Bunnings - Search button clicked successfully
+2019-07-31 14:09:31,093 [main] INFO Bunnings - Assertion applied successfully
+2019-07-31 14:09:37,169 [main] INFO Bunnings - Item selected successfully
+2019-07-31 14:09:37,987 [main] INFO Bunnings - Item added to Wishlist successfully
+2019-07-31 14:09:42,999 [main] INFO Bunnings - Wishlist link clicked successfully
+2019-07-31 14:09:43,137 [main] INFO Bunnings - Assertion applied successfully
+2019-07-31 14:09:43,138 [main] INFO Bunnings - Wishlist page screenshot

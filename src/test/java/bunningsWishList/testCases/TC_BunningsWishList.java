@@ -6,8 +6,7 @@ import bunningsWishList.PageObjects.LandingPage;
 import bunningsWishList.PageObjects.ProductDetailsPage;
 import bunningsWishList.PageObjects.SearchResultPage;
 import bunningsWishList.PageObjects.WishListPage;
-import bunningsWishList.utilities.Screenshot;
-import junit.framework.Assert;
+import org.junit.Assert;
 
 public class TC_BunningsWishList extends BaseClass {
 
@@ -16,9 +15,8 @@ public class TC_BunningsWishList extends BaseClass {
 	ProductDetailsPage productDetails;
 	WishListPage wishList;
 
-	@Test(priority=1)
-	public void verifySearchresultText()
-	{
+	@Test(priority = 1)
+	public void verifySearchresultText() {
 		searchField = new LandingPage(driver);
 		result = new SearchResultPage(driver);
 		searchField.enterTextInSearchField();
@@ -28,17 +26,16 @@ public class TC_BunningsWishList extends BaseClass {
 		result.getSearchResultText();
 		Assert.assertEquals("Test case Passed successfully", rc.enterTextInResultfield(), result.getSearchResultText());
 		logger.info("Assertion applied successfully");
-		Screenshot.captureScreenshot(driver, "SearchPage");
-		logger.info("Search result page screenshot");
+		//Screenshot.captureScreenshot(driver, "SearchPage");
+		//logger.info("Search result page screenshot");
 		result.clickOnProduct();
 		logger.info("Item selected successfully");
 	}
 
-	@Test(priority=2)
-	public void verifyProductAddedToWishlist()
-	{
+	@Test(priority = 2)
+	public void verifyProductAddedToWishlist() {
 		productDetails = new ProductDetailsPage(driver);
-		String productId =	productDetails.getProductIdNumber();
+		String productId = productDetails.getProductIdNumber();
 		productDetails.addItemToWishlist();
 		logger.info("Item added to Wishlist successfully");
 		productDetails.clickWishListLink();
@@ -46,7 +43,7 @@ public class TC_BunningsWishList extends BaseClass {
 		wishList = new WishListPage(driver);
 		Assert.assertEquals("Product id matches successfully", productId, wishList.getWishlistItemIdNumber());
 		logger.info("Assertion applied successfully");
-		Screenshot.captureScreenshot(driver, "Wishlist");
+		//Screenshot.captureScreenshot(driver, "Wishlist");
 		logger.info("Wishlist page screenshot");
 	}
 
